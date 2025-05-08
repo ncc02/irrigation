@@ -1,9 +1,11 @@
-FROM python:3.11-slim AS builder
+FROM python:3.10-slim AS builder
 
 WORKDIR /app
 
 RUN apt-get update && apt-get install -y \
     build-essential \
+    gcc \
+    python3-dev \
     && rm -rf /var/lib/apt/lists/*
 
 RUN python3 -m venv venv
@@ -14,7 +16,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Stage 2
-FROM python:3.11-slim AS runner
+FROM python:3.10-slim AS runner
 
 WORKDIR /app
 
