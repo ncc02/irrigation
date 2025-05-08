@@ -1,5 +1,6 @@
 import joblib
 import pandas as pd
+import os
 from app.models.models import SensorData
 
 class IrrigationPredictor:
@@ -13,9 +14,10 @@ class IrrigationPredictor:
     
     def __init__(self):
         if not self._initialized:
-            self.manure_model = joblib.load("app\predict\model_manure.pkl")
-            self.label_encoder = joblib.load("app\predict\label_encoder_manure.pkl")
-            self.water_model = joblib.load("app\predict\model_water.pkl")
+            base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            self.manure_model = joblib.load(os.path.join(base_dir, "app", "predict", "model_manure.pkl"))
+            self.label_encoder = joblib.load(os.path.join(base_dir, "app", "predict", "label_encoder_manure.pkl"))
+            self.water_model = joblib.load(os.path.join(base_dir, "app", "predict", "model_water.pkl"))
             self._initialized = True
     
     async def predict(self, sensor_data: SensorData) -> tuple[bool, str, str]:
