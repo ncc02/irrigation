@@ -1,0 +1,5002 @@
+[
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 50-100g DAP (18-46-0), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Có",
+    "Lý do tưới":"Tưới vì độ ẩm thấp và thiếu dinh dưỡng",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  },
+  {
+    "Tưới nước":"Không",
+    "Lý do tưới":"Không cần",
+    "Bón phân":"Bón 100-150g NPK (16-16-8), Bón 100-150g KCl (0-0-60)"
+  }
+]

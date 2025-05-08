@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import irrigation
+from app.routers import irrigation, sensors
 
 app = FastAPI(
     title="Hệ thống dự đoán tưới nước và bón phân",
@@ -19,6 +19,7 @@ app.add_middleware(
 
 # Đăng ký router
 app.include_router(irrigation.router, prefix="/api", tags=["irrigation"])
+app.include_router(sensors.router, prefix="/api", tags=["sensors"])
 
 # Endpoint kiểm tra sức khỏe
 @app.get("/health")

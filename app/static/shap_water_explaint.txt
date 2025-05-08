@@ -1,0 +1,13 @@
+Biểu đồ này cho biết mô hình tưới nước của bạn đang “nghĩ” như thế nào khi đưa ra quyết định.
+
+- Cột dọc (tên cảm biến): Các yếu tố như “Độ ẩm đất”, “Kali”, “Phốt pho”, v.v. Mục nào nằm cao là yếu tố quan trọng hơn trong quyết định có tưới hay không.
+
+- Mỗi chấm là một lần đo thực tế: Chấm nằm bên phải nghĩa yếu tố đó làm mô hình nghiêng về quyết định TƯỚI, nằm bên trái là KHÔNG TƯỚI.
+
+- Màu sắc của chấm: Cho biết giá trị thực của cảm biến đó lúc đo – đỏ là cao, xanh là thấp.
+
+Ví dụ:
+
+- “Humidity” (Độ ẩm) là yếu tố quan trọng nhất. Khi độ ẩm cao (màu đỏ), chấm thường nằm bên trái → mô hình không tưới, vì đất đã đủ ẩm.
+
+- Ngược lại, “Temperature” (Nhiệt độ) cao một chút có thể làm mô hình quyết định tưới vì trời nóng, cây có thể cần thêm nước.

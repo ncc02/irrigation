@@ -1,2 +1,1 @@
-uvicorn app.main:app --reload"# irrigation" 
-"# irrigation" 
+uvicorn app.main:app --reload
