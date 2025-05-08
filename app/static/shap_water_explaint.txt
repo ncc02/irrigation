@@ -1,4 +1,4 @@
-Biểu đồ này cho biết mô hình tưới nước của bạn đang “nghĩ” như thế nào khi đưa ra quyết định.
+Biểu đồ SHAP này cho biết mô hình Random Forest của bạn đang “nghĩ” như thế nào khi đưa ra quyết định.
 
 - Cột dọc (tên cảm biến): Các yếu tố như “Độ ẩm đất”, “Kali”, “Phốt pho”, v.v. Mục nào nằm cao là yếu tố quan trọng hơn trong quyết định có tưới hay không.
 
@@ -6,7 +6,7 @@ Biểu đồ này cho biết mô hình tưới nước của bạn đang “ngh�
 
 - Màu sắc của chấm: Cho biết giá trị thực của cảm biến đó lúc đo – đỏ là cao, xanh là thấp.
 
-Ví dụ:
+Nhìn vào biểu đồ ta thấy:
 
 - “Humidity” (Độ ẩm) là yếu tố quan trọng nhất. Khi độ ẩm cao (màu đỏ), chấm thường nằm bên trái → mô hình không tưới, vì đất đã đủ ẩm.
 
