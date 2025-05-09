@@ -1,2 +1,6 @@
 env/
 __pycache__/
+# Bỏ qua tất cả các file .pyc
+*.pyc
+
+app/__pycache__/

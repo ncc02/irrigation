@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from typing import Dict, Optional
+from typing import Dict, Optional, List
 
 # Model cho dữ liệu cảm biến
 class SensorData(BaseModel):
@@ -48,4 +48,6 @@ class SensorRecord(BaseModel):
     fPort: int
     confirmed: bool
     data: str
-    object: SensorData 
+    object: SensorData
+    rxInfo: Optional[List] = None
+    txInfo: Optional[Dict] = None 
