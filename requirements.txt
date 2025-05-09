@@ -22,3 +22,4 @@ threadpoolctl==3.6.0
 typing_extensions==4.13.2
 tzdata==2025.2
 uvicorn==0.24.0
+pymongo>=4.3,<5.0
